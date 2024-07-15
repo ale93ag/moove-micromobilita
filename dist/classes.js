@@ -1,3 +1,5 @@
+//classes.js
+
 // Definizione della classe Mezzo
 export class Mezzo {
     constructor(type, id, state) {

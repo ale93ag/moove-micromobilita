@@ -1,3 +1,5 @@
+//classes.ts
+
 import { ICitta, IMezzo, IUtente } from "./interfaces";
 
 // Definizione della classe Mezzo
