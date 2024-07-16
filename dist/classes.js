@@ -1,4 +1,4 @@
-//classes.js
+//dist/classes.js
 
 // Definizione della classe Mezzo
 export class Mezzo {

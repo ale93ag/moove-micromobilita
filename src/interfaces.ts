@@ -1,3 +1,5 @@
+// src/interfaces.ts
+
 export interface IMezzo {
     type: string;
     id: number;
