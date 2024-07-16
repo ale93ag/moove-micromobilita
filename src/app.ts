@@ -1,6 +1,4 @@
-//src/app.ts
-
-import { Città, Mezzo, Utente } from "../src/classes.js";
+import { Città, Mezzo, Utente } from "./classes.js";
 
 // Nuovi mezzi in Città
 let Bici = new Mezzo('bici', 1, 'disponibile');
@@ -53,6 +51,4 @@ Utente3.prenotaMezzo(mezziMilano[0]); // Bici disponibile
 // Mostra mezzi disponibili dopo prenotazioni
 Roma.mostraMezziDisponibili();
 Milano.mostraMezziDisponibili();
-
-
 

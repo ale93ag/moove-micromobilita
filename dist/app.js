@@ -1,4 +1,4 @@
-import { Città, Mezzo, Utente } from "../dist/classes.js";
+import { Città, Mezzo, Utente } from "./classes.js";
 // Nuovi mezzi in Città
 let Bici = new Mezzo('bici', 1, 'disponibile');
 let Scooter = new Mezzo('scooter', 2, 'in uso');

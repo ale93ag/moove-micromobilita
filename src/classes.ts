@@ -1,5 +1,3 @@
-//src/classes.ts
-
 import { ICitta, IMezzo, IUtente } from "./interfaces";
 
 // Definizione della classe Mezzo
@@ -98,7 +96,3 @@ export class Città implements ICitta {
         return word.charAt(0).toUpperCase() + word.slice(1);
     }
 }
-
-
-
-

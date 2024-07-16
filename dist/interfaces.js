@@ -1,1 +1,2 @@
+// src/interfaces.ts
 export {};
